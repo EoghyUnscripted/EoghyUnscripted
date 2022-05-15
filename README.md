@@ -66,7 +66,7 @@ When I am not programming or working, I enjoy spending time outside when the wea
 <img src="svg/html5.svg" alt="HTML5" width="50" height="50"/>
 <img src="svg/json.svg" alt="JSON" width="50" height="50"/>
 <img src="svg/javascript.svg" alt="JavaScript" width="50" height="50"/>
-<img src="svg/php.svg" alt="php" width="" height="50"/>
+<img src="svg/php.svg" alt="Php" width="" height="50"/>
 <img src="svg/python.svg" alt="Python" width="50" height="50"/>
 <img src="svg/sass.svg" alt="Sass" width="50" height="50"/>
 
@@ -83,7 +83,7 @@ When I am not programming or working, I enjoy spending time outside when the wea
 <img src="svg/mysql.svg" alt="MySQL" width="50" height="50"/>
 <img src="svg/postman.svg" alt="Postman" width="50" height="50"/>
 <img src="svg/pycharm.svg" alt="PyCharm" width="50" height="50"/>
-<img src="svg/vsc.svg" alt="vsc" width="50" height="50"/>
+<img src="svg/vsc.svg" alt="VSC" width="50" height="50"/>
 
 </div>
 
