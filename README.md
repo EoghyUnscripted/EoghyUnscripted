@@ -81,6 +81,7 @@ When I am not programming or working, I enjoy spending time outside when the wea
 <img src="svg/github.svg" alt="Github" width="50" height="50"/>
 <img src="svg/mssql.svg" alt="MSSQL" width="50" height="50"/>
 <img src="svg/mysql.svg" alt="MySQL" width="50" height="50"/>
+<img src="svg/postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
 <img src="svg/postman.svg" alt="Postman" width="50" height="50"/>
 <img src="svg/pycharm.svg" alt="PyCharm" width="50" height="50"/>
 <img src="svg/vsc.svg" alt="VSC" width="50" height="50"/>
