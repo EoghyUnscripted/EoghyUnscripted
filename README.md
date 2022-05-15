@@ -13,7 +13,6 @@ class Person():
                         "New phone who dis"
         ] 
         self.title = "Software Engineer"
-        self.
         self.pronouns = "He/Him"
         self.theme_song = "Kiss Me - Sixpence None The Richer"
         self.keywords = [
