@@ -40,7 +40,8 @@ Eoghy = Person()    # Initialize
 
 # About Eoghan
 
-![Twitter URL](https://img.shields.io/badge/@HeyEoghy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&url=https%3A%2F%2Fwww.twitter.com%2Fheyeoghy)
-![LinkedIn URL](https://img.shields.io/badge/Eoghan%20Hulbert-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FEoghanHulbert)
-![HackerRank URL](https://img.shields.io/badge/@Eoghy-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&url=https%3A%2F%2Fwww.hackerrank.com%2FEoghy)
+![Twitter URL](https://img.shields.io/badge/@HeyEoghy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https%3A%2F%2Fwww.twitter.com%2Fheyeoghy)
+![LinkedIn URL](https://img.shields.io/badge/Eoghan%20Hulbert-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2FEoghanHulbert)
+![HackerRank URL](https://img.shields.io/badge/@Eoghy-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&link=https%3A%2F%2Fwww.hackerrank.com%2FEoghy)
+
 
