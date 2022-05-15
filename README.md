@@ -1,1 +1,1 @@
-<img src="banner.png" class="center" style="width: 700px;">
+<img src="banner.png" style="max-width: 100%; height: auto;">
