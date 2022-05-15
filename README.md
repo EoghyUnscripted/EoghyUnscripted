@@ -58,7 +58,11 @@ When I am not programming or working, I enjoy spending time outside when the wea
 
 ## Languages & Frameworks
 
+<div>
+
 <img src="svg/bootstrap.svg" alt="Bootstrap" width="50" height="50"/><img src="svg/css3.svg" alt="CSS" width="50" height="50"/> <img src="svg/django.svg" alt="Django" width="50" height="50"/> <img src="svg/html5.svg" alt="HTML5" width="50" height="50"/> <img src="svg/json.svg" alt="JSON" width="50" height="50"/> <img src="svg/javascript.svg" alt="JavaScript" width="50" height="50"/> <img src="svg/php.svg" alt="php" width="" height="50"/> <img src="svg/python.svg" alt="Python" width="50" height="50"/> <img src="svg/sass.svg" alt="Sass" width="50" height="50"/>
+
+</div>
 
 ## Tools
 
