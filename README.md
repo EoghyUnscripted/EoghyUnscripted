@@ -119,5 +119,6 @@ I started the thought process on this project here, which is simply a class file
 
 ### Whiteboard Thoughts
 
-* `Tamagotchi Pet:` I had an idea to develop a program that is like an old Tamagotchi pet from way back, but instead of a pet, the character you're taking care of is yourself
-* `Story Game:` I am considering building a story game that let's you choose your own endings - like those "Goosebumps" stories we all read as kid
+* `Tamagotchi Pet:` Okay so, hear me out &ndash; A Tamagotchi pet, but it's just a computer game where you take care of a digital version of yourself.
+* `Story Game:` Wouldn't it be cool to build a story game that let's you choose your own endings - like those "Goosebumps" stories we all read as kid?
+* `My Binary Diary:` A digital version of Tom Riddle's Diary but you pre-set the phrases to reply with like that one time on "Sabrina the Teenage Witch" when Sabrina made a clone and it could only say three (3) phrases
