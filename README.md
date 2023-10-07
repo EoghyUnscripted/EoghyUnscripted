@@ -11,11 +11,11 @@
 
 # Hey, it's Eoghy!
 
-> Excuse you, what?
+![Eoghan](https://img.shields.io/badge/O&ndash;in-%2307405e.svg?style=for-the-badge&label=EOGHAN&labelColor=2874A6)
+![Eoghy](https://img.shields.io/badge/O&ndash;E-%238A4182.svg?style=for-the-badge&label=EOGHY&labelColor=9575CD)
+![Eoghaidh](https://img.shields.io/badge/O&ndash;E-%23217346.svg?style=for-the-badge&label=EOGHAIDH&labelColor=388E3C)
 
-Hey, there! Welcome to my profile. I'm Eoghan, nice to meet you! So I know it looks like a nightmare but you pronounce it as *"O-in"*. Or *"O-E"* for Eoghy. Not as terrible as it seems!
-
-I am a Python developer with experience in systems engineering, software engineering, and automation. I was always engineering things from junk as a kid, earning me the title of "Tink" for a while there.
+Hey, there! Welcome to my profile. I'm Eoghan, nice to meet you! I am a Python developer with experience in systems engineering, software engineering, and automation. I was always engineering things from junk as a kid, earning me the title of "Tink" for a while there.
 
 ## <img src="images/banner.png" style="max-height:50px;">
 
