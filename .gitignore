@@ -13,8 +13,6 @@ db.sqlite3-journal
 /media
 /static
 /files
-.DS_Store
-
 
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/
 # in your Git repository. Update and uncomment the following line accordingly.
@@ -149,5 +147,15 @@ dmypy.json
 
 # pytype static type analyzer
 .pytype/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 
 # End of https://www.toptal.com/developers/gitignore/api/django
