@@ -1,15 +1,83 @@
-<img src="banner.png" style="max-width: 100%; height: auto;">
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=EoghyUnscripted&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-[![LinkedIn URL](https://img.shields.io/badge/Eoghan%20Hulbert-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2FEoghanHulbert)](https://www.linkedin.com/in/eoghanhulbert)
-[![HackerRank URL](https://img.shields.io/badge/@Eoghy-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&link=https%3A%2F%2Fwww.hackerrank.com%2FEoghy)](https://www.hackerrank.com/eoghy)
+# <img src="images/wave.png" style="max-height:200px;"><img src="images/meditate.png" style="max-height:200px;"><img src="images/profile.png" style="max-height:200px;">
+
+[![GitHub](https://img.shields.io/badge/@EoghyUnscripted-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fwww.github.com%2Feoghyunscripted)](https://www.github.com/eoghyunscripted)
+[![Replit](https://img.shields.io/badge/@EoghyUnscripted-DD1200?style=for-the-badge&logo=Replit&logoColor=white&link=https%3A%2F%2Fwww.replit.com%2F@eoghyunscripted)](https://www.replit.com/@eoghyunscripted)
+[![HackerRank](https://img.shields.io/badge/@Eoghy-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&link=https%3A%2F%2Fwww.hackerrank.com%2FEoghy)](https://www.hackerrank.com/eoghy)
+[![Twitter](https://img.shields.io/badge/@EoghyUnscripted-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https%3A%2F%2Fwww.twitter.com%2Feoghyunscripted)](https://www.twitter.com/eoghyunscripted)
 
 </div>
 
+# Hey, it's Eoghy!
+
+> Excuse you, what?
+
+Hey, there! Welcome to my profile. I'm Eoghan, nice to meet you! So I know it looks like a nightmare but you pronounce it as *"O-in"*. Or *"O-E"* for Eoghy. Not as terrible as it seems!
+
+I am a Python developer with experience in systems engineering, software engineering, and automation. I was always engineering things from junk as a kid, earning me the title of "Tink" for a while there.
+
+## <img src="images/banner.png" style="max-height:50px;">
+
+> What does that even mean?
+
+**Eoghy***Unscripted* is actually just a promise I made to myself a few years ago to live my life as unscripted as possible... within reason! I fear my body is a little old for some adventures.
+
+## General Interests
+
+When I am not programming or working, I enjoy spending time outside when the weather is nice. I also enjoy nightly walks, reading, practicing new language skills, spending time with friends, hiking, and cooking.
+
+# My Tool Belt
+
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Recent Projects
+
+![Arcade Games Core](/images/penny_arcade.png)
+
+### "Penny Arcade"
+
+[![GitHub](https://img.shields.io/badge/GitHub%20Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EoghyUnscripted/Arcade-Games-Core)
+[![Replit](https://img.shields.io/badge/Replit%20Demo-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@EoghyUnscripted/Penny-Arcade)
+
+Designed and built for the nostalgia, the "Penny Arcade" is a core Python application that lets users play solo games like Blackjack or Hangman in a terminal or console window.
+
+---
+
 ```python
-class Person():
+class Eoghy():
 
     def __init__(self):
         self.name = "Eoghan Hulbert"
@@ -38,62 +106,18 @@ class Person():
                                     "Are you sure?",
                                     "I'm hungry."
         ]
-
-Eoghy = Person()    # Initialize
 ```
 
-# Hey, it's Eoghy!
+### I, Eoghy
 
-## About
+![GitHub](https://img.shields.io/badge/Pending-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Replit](https://img.shields.io/badge/Pending-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 
-I graduated in 2018 with a B.A. Information Technologies conc. Software Engineering and have been focusing my time over the last few years on continuing to develop my skills. While I was academically trained in full-stack development, I highly prefer working on the logical side developing code and working with data.
+I started the thought process on this project here, which is simply a class file that represents me. When this project is finished, you will be able to treat the Eoghy object like a person. Seriously, it's going to have some neat stuff.
 
-## Interests
+---
 
-When I am not programming or working, I enjoy spending time outside when the weather is nice. I also enjoy reading, practicing new language skills, spending time with friends, and cooking.
+### Whiteboard Thoughts
 
-# Technical Stack
-
-## Languages & Frameworks
-
-<div id="languages">
-
-<img src="svg/bootstrap.svg" alt="Bootstrap" width="50" height="50"/>
-<img src="svg/css3.svg" alt="CSS" width="50" height="50"/>
-<img src="svg/django.svg" alt="Django" width="50" height="50"/>
-<img src="svg/html5.svg" alt="HTML5" width="50" height="50"/>
-<img src="svg/json.svg" alt="JSON" width="50" height="50"/>
-<img src="svg/javascript.svg" alt="JavaScript" width="50" height="50"/>
-<img src="svg/php.svg" alt="Php" width="" height="50"/>
-<img src="svg/python.svg" alt="Python" width="50" height="50"/>
-<img src="svg/sass.svg" alt="Sass" width="50" height="50"/>
-
-</div>
-
-## Tools
-
-<div id="tools">
-
-<img src="svg/atom.svg" alt="Atom" width="50" height="50"/>
-<img src="svg/git.svg" alt="Git" width="50" height="50"/>
-<img src="svg/github.svg" alt="Github" width="50" height="50"/>
-<img src="svg/mssql.svg" alt="MSSQL" width="50" height="50"/>
-<img src="svg/mysql.svg" alt="MySQL" width="50" height="50"/>
-<img src="svg/postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
-<img src="svg/postman.svg" alt="Postman" width="50" height="50"/>
-<img src="svg/pycharm.svg" alt="PyCharm" width="50" height="50"/>
-<img src="svg/vsc.svg" alt="VSC" width="50" height="50"/>
-
-</div>
-
-# Projects
-
-## Current
-
-* [100 Days of Code Python](https://github.com/EoghyUnscripted/100-Days-Of-Code-Python) This project is my primary focus and I plan to complete this goal by the end of July, 2022
-* <strong>GitHub Revamp:</strong> Working through old projects for redevelopment, conversions to new languages & frameworks, and markdown improvements
-
-## Future
-
-* <strong>Tarot Card Reader App:</strong> An app that lets you pick a card layout and generates a reading for the user
-* <strong>GitHub Pages:</strong> I plan to explore GitHub pages as a possible option for a portfolio
+* `Tamagotchi Pet:` I had an idea to develop a program that is like an old Tamagotchi pet from way back, but instead of a pet, the character you're taking care of is yourself
+* `Story Game:` I am considering building a story game that let's you choose your own endings - like those "Goosebumps" stories we all read as kid
