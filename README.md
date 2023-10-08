@@ -136,5 +136,9 @@ I've developed a few projects in my endeavor to create a decent portfolio. And a
 
 # Goals
 
-* [ ] Develop a Python library
-* [ ] Deploy Project Rocky
+* [ ] Kiss him under the Milky Way in the night sky
+* [ ] Escape to the forest to become the reason it's haunted
+* [ ] Find out how everyones elses laundry always smells better than mine
+* [ ] Start a family recipe book
+* [X] Learn guitar
+* [X] Climb a mountain
