@@ -140,5 +140,6 @@ I've developed a few projects in my endeavor to create a decent portfolio. And a
 * [ ] Escape to the forest to become the reason it's haunted
 * [ ] Find out how everyones elses laundry always smells better than mine
 * [ ] Start a family recipe book
+* [ ] Also, where do I go to see the Milky Way in the night sky?
 * [X] Learn guitar
 * [X] Climb a mountain
