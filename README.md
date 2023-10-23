@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="images/wave.png" style="max-height:200px;"><img src="images/meditate.png" style="max-height:200px;"><img src="images/profile.png" style="max-height:200px;">
+# <img src="images/wave.png" style="max-height:100px;"><img src="images/meditate.png" style="max-height:100px;"><img src="images/profile.png" style="max-height:100px;">
 
 [![GitHub](https://img.shields.io/badge/@EoghyUnscripted-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fwww.github.com%2Feoghyunscripted)](https://www.github.com/eoghyunscripted)
 [![Replit](https://img.shields.io/badge/@EoghyUnscripted-DD1200?style=for-the-badge&logo=Replit&logoColor=white&link=https%3A%2F%2Fwww.replit.com%2F@eoghyunscripted)](https://www.replit.com/@eoghyunscripted)
